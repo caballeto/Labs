@@ -1,0 +1,11 @@
+/home/napoleon/RiderProjects/ConsoleApp1/ConsoleApp1/bin/Debug/netcoreapp2.2/ConsoleApp1.deps.json
+/home/napoleon/RiderProjects/ConsoleApp1/ConsoleApp1/bin/Debug/netcoreapp2.2/ConsoleApp1.runtimeconfig.json
+/home/napoleon/RiderProjects/ConsoleApp1/ConsoleApp1/bin/Debug/netcoreapp2.2/ConsoleApp1.runtimeconfig.dev.json
+/home/napoleon/RiderProjects/ConsoleApp1/ConsoleApp1/bin/Debug/netcoreapp2.2/ConsoleApp1.dll
+/home/napoleon/RiderProjects/ConsoleApp1/ConsoleApp1/bin/Debug/netcoreapp2.2/ConsoleApp1.pdb
+/home/napoleon/RiderProjects/ConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp2.2/ConsoleApp1.csprojAssemblyReference.cache
+/home/napoleon/RiderProjects/ConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp2.2/ConsoleApp1.csproj.CoreCompileInputs.cache
+/home/napoleon/RiderProjects/ConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp2.2/ConsoleApp1.AssemblyInfoInputs.cache
+/home/napoleon/RiderProjects/ConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp2.2/ConsoleApp1.AssemblyInfo.cs
+/home/napoleon/RiderProjects/ConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp2.2/ConsoleApp1.dll
+/home/napoleon/RiderProjects/ConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp2.2/ConsoleApp1.pdb
